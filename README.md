@@ -44,5 +44,8 @@ Horizontal Bar Chart: Ranks pizza categories by total sales volume
 Staffing Optimization: Weekend evening peaks require 35% more staff allocation
 Inventory Planning: Classic and Large pizzas need priority stock management
 Revenue Growth: Large size focus can increase average order value
+
+# SCREENSHOT OF THE DASHBOARD
+https://github.com/sumaiyarasheed18-tech/Pizza-Sales-Report/blob/main/Pizza%20Sales%20Report.jpg
 Seasonal Strategy: Prepare for July surge and September dip with targeted promotions
 Menu Engineering: Supreme and Veggie categories show growth potential with proper marketing
